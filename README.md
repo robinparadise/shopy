@@ -53,7 +53,7 @@ Se valorará:
 
 ---
 
-**Tarea 3 (1 puntos):** Navbar
+**Tarea 3 (2 puntos):** Navbar
 
 Crea un navbar (`navbar.php`) con un logo y un menú de navegación con las siguientes opciones:
 - Logo
