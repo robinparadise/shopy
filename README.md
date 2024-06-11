@@ -11,6 +11,9 @@
 - Lee cuidadosamente cada tarea y sigue las instrucciones proporcionadas.
 - Puedes utilizar HTML, CSS, JavaScript y PHP para completar el examen.
 - Se te evaluará tanto por la precisión como por la calidad de tu código.
+- Envía el proyecto en un Zip (con tu nombre) al correo:
+  - rgiles@metrodoraeducation.com
+  - robinchogiles@gmail.com
 - ¡Buena suerte!
 
 ---
